@@ -1,0 +1,324 @@
+
+                  #main-div{
+                    float: left;
+                    height: 4000px;
+                    width: 100%;
+                    background-color:white ;
+                  }
+                   .header{
+                    float: left;
+                    height: 700px;
+                    width: 100%;
+                    background-color:white;
+
+
+
+                   }
+
+
+
+
+
+
+                .nav-1 {
+                    float: left;
+                    height: 250px;
+                    width: 100%;
+                    background-color:#4385c1 ;
+
+
+
+                   }
+                .nav-1 li a{
+
+                list-style:none ;
+                color: ivory;
+                font-size: 18px;
+
+                }
+
+
+
+
+
+
+                .nav-2 {
+                    float: left;
+                    height: 450px;
+                    width: 100%;
+                    background-color:#043867 ;
+
+
+
+                   }
+                .nav-2 li{
+
+                list-style:none ;
+                color:#2c6fac;
+                font-size: 25px;
+                font-family: Arial, Helvetica, sans-serif;
+                margin-top: 50px;
+
+                }
+
+
+                .BTN-1{
+
+
+                    float: left;
+                    border: 1PX solid white;
+                    border-radius: 5px;
+                    background-color:#4385c1 ;
+                    height: 40px;
+                    width: 100px;
+                    margin-left: 50px;
+                    margin-top: -40px;
+                    color: ivory;
+                }
+                .BTN-2{
+                    float: left;
+                    border: 1PX solid white;
+                    border-radius: 5px;
+                    background-color:#4385c1 ;
+                    height: 40px;
+                    width: 100px;
+                    margin-left: 155px;
+                    margin-top: -40px;
+                    color: ivory;
+                    }
+
+
+
+                .img-box{
+
+
+                    float: left;
+                    height: 500px;
+                    width: 100%;
+                    background-color:white ;
+                }
+
+
+                   
+
+* a{
+    color: white;
+}
+
+* .multi-rows p{
+
+    color: lightslategrey;
+
+}
+
+                    .multi-rows{
+                        float: left;
+                        background-color:white;
+                        height:2200px;
+                        width: 100%;
+
+
+                    }
+                    .row-1{
+                        float: right;
+                        
+                        background-color: white;
+                        
+                        height:150px;
+                        width:90%;
+                        color: lightslategrey;
+                        padding-left: 10px;
+                        font-size: large;
+                    }
+
+                    .row-1a{
+                        float: right;
+                        height: 150px;
+                        width: 90%;
+                        color: white;
+                        
+                        background-color: #7aa120;
+                        padding-left: 10px;
+                        font-size: large;
+                        }
+                    .row-2{
+                        float: left;
+                        
+                        background-color: #e7ecf0;
+                        color: #4385c1;
+                        height:230px;
+                        width: 25%;
+                        margin-left: 122px;
+                        text-align: center;
+                        margin-top: 80px;
+                        padding-top: 50px;
+                        font-family: Arial, Helvetica, sans-serif;
+                        
+                    }
+                    .row-3{
+                        float: left;
+                        
+                        background-color: #e7ecf0;
+                        color: #4385c1;
+                        height:230px;
+                        width: 25%;
+                        margin-left:-335px;
+                        text-align: center;
+                        margin-top:420px;
+                        padding-top: 50px;
+                        font-family: Arial, Helvetica, sans-serif;
+                        
+                    }
+                    .row-4
+                    {
+                           float: left;
+                        
+                        background-color: #e7ecf0;
+                        color: #4385c1;
+                        height:230px;
+                        width: 25%;
+                        margin-left:-335px;
+                        text-align: center;
+                        margin-top:760px;
+                        padding-top: 50px;
+                        font-family: Arial, Helvetica, sans-serif;
+                    }
+
+                    .row-5{
+                        float: left;
+                        font-family: Arial, Helvetica, sans-serif;
+                        background-color: purple;
+                        color: white;
+                        height:350px;
+                        width: 25%;
+                        text-align: center;
+                        margin-top:1100px;
+                        margin-left:-335px;
+                        font-size: large;
+                    }
+                    .row-6{
+                        float: left;
+                        font-family: Arial, Helvetica, sans-serif;
+                        background-color:royalblue;
+                       color:  white;
+                        height:350px;
+                        width: 25%;
+                        font-size: large;
+                        text-align: center;
+                        margin-top:1530px;
+                        margin-left:-335px;
+                    }
+
+
+                    
+
+
+.opt1{ 
+    float: left;
+    margin-left: 130px;
+    color: lightgrey;
+}
+                  .calander{
+                   float: left;
+                   height: 400px;
+                   width: 100%;
+                   background-color: white;
+                   
+
+
+                    }
+                    .calander h4{
+                        color: #34383c;
+                        font-size: x-large;
+
+
+
+                    }
+                    .c-row-1{
+                        float: left;
+                        
+                        margin-top: 80px;
+                        margin-left: -290px;
+                        border: 1PX solid #4385c1;
+                        height: 120px;
+                        width: 120px;
+                        color: #7aa120;
+                        text-align: center;
+                        background-color:white ;
+                     
+                    }
+                    .c-row-2{
+                        float: left;
+                        margin-top: -20px;
+                        margin-left: 130px;
+                        border: 1PX solid #4385c1;
+                        height: 120px;
+                        width: 120px;
+                        color: #7aa120;
+                        text-align: center;
+                        background-color:white ;
+                        
+
+
+
+                    }
+.calander p{
+    
+    color: #4385c1;
+  
+    
+
+}
+
+.multi-tabs {
+
+    float: left;
+   
+    background-color: ivory ;
+    height: 50px;
+    width: 100%;
+   
+    
+
+}
+                    .multi-tabs button{
+
+                        float: left;
+                        border: 1PX solid #4385c1;
+                      font-size: medium;
+                        background-color: ivory ;
+                        height: 40px;
+                        width: 180px;
+                       
+                        color: #4385c1;
+
+                    }
+                    footer{
+                        
+                    float: left;
+                    height: 1120px;
+                    width: 100%;
+                    background-color: #34383c;
+                
+                    }
+                    
+
+
+                   
+                    .footer-content >ul>li>h1{
+                        color: white;
+                        font-size: 20px;
+                        
+                
+                    }
+                    *{
+                        font-family: Arial, Helvetica, sans-serif;
+                        list-style-type:none ;
+                        text-decoration:none;
+                    }
+                    
+                    * a{
+
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: medium;
+                    }
